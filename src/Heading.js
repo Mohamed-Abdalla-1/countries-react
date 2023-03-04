@@ -1,7 +1,7 @@
 const Heading = () => {
     return (
       <header className="App-header">
-        <h2>Where in the world?</h2>
+        <h3>Where in the world?</h3>
       </header>
     );
 }
