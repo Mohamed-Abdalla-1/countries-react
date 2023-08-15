@@ -50,5 +50,3 @@ This project provided great practice working with:
 - Immutable state management
 
 Overall it was excellent for honing React skills and learning to build polished, dynamic user interfaces.
-
-Let me know if you would like me to modify or expand this updated README further!
