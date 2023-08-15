@@ -2,9 +2,8 @@
 
 This project implements the "REST Countries API with color theme switcher" challenge from Frontend Mentor using React. 
 
-View the live app: https://yourname.netlify.app
+View the live app: https://cyf-mohamed-countries-reac.netlify.app/
 
-View the source code: https://github.com/yourname/countries
 
 ## Features
 
